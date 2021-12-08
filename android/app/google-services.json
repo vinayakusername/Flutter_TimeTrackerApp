@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934932657680",
+    "project_id": "timetrackerflutterapp-7ceda",
+    "storage_bucket": "timetrackerflutterapp-7ceda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934932657680:android:224bbed96cfe3013897c95",
+        "android_client_info": {
+          "package_name": "com.example.flutter_time_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934932657680-m1ep3tdo9ol6qnd2n1rno1p9ra1sb78n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgPFDduirE3tb-uaUa6ZIv75gVAC5ynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934932657680-m1ep3tdo9ol6qnd2n1rno1p9ra1sb78n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
