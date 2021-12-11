@@ -28,7 +28,6 @@ Runner/GeneratedPluginRegistrant.*
 GoogleService-Info.plist
 Info.plist
 
-
 # Exceptions to above rules.
 !default.mode1v3
 !default.mode2v3
